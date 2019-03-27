@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jd-parent.iml" filepath="$PROJECT_DIR$/jd-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jd_basic_parent/jd_basic_parent.iml" filepath="$PROJECT_DIR$/jd_basic_parent/jd_basic_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jd_basic_parent/jd_basic_util/jd_basic_util.iml" filepath="$PROJECT_DIR$/jd_basic_parent/jd_basic_util/jd_basic_util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jd_config_server_9527/jd_config_server_9527.iml" filepath="$PROJECT_DIR$/jd_config_server_9527/jd_config_server_9527.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jd_eureka_server_7001/jd_eureka_server_7001.iml" filepath="$PROJECT_DIR$/jd_eureka_server_7001/jd_eureka_server_7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jd_plat_parent/jd_plat_interface/jd_plat_interface.iml" filepath="$PROJECT_DIR$/jd_plat_parent/jd_plat_interface/jd_plat_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jd_plat_parent/jd_plat_parent.iml" filepath="$PROJECT_DIR$/jd_plat_parent/jd_plat_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jd_plat_parent/jd_plat_service_8001/jd_plat_service_8001.iml" filepath="$PROJECT_DIR$/jd_plat_parent/jd_plat_service_8001/jd_plat_service_8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jd_zuul_server_1299/jd_zuul_server_1299.iml" filepath="$PROJECT_DIR$/jd_zuul_server_1299/jd_zuul_server_1299.iml" />
+    </modules>
+  </component>
+</project>

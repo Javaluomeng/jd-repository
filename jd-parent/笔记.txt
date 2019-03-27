@@ -1,0 +1,17 @@
+第四个项目结构说明：
+    jd_basic_parent 公共模块的父模块
+        jd_basic_util 公共工具模块
+    jd_config_server_9527  配置中心
+    jd_eureka_server_7001   注册中心
+    jd_plat_parent 平台管理的父模块
+        jd_plat_interface  平台接口的管理
+        jd_plat_service_8001  平台服务
+    jd_zuul_server_1299  网关服务
+
+项目第二天：
+    1、 git 版本控制工具的使用，图形界面和IDEA 中的使用
+    2、 完成项目的配置中心，将配置中心放在github 上
+    3、 前端环境的安装，node 和npm 的安装和简单使用
+    4、 ES6 的重要语法，
+    5、 前端的打包方式，怎么打包
+    6、 vue-cli 工程模板

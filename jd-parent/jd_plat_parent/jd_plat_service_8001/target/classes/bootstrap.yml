@@ -1,0 +1,8 @@
+spring:
+  cloud:
+    config:
+      uri: http://127.0.0.1:9527 # 配置配置中心的服务器
+      label: master #分支
+      name: jd-server-config #github上面名称
+      # profile: test #环境
+      profile: ${spring.server.profile} # 当这个服务被打成一个jar 包的时候，根据传入的参数去判断使用什么环境

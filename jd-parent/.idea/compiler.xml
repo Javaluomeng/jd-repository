@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="jd_basic_util" />
+        <module name="jd_config_server_9527" />
+        <module name="jd_eureka_server_7001" />
+        <module name="jd_plat_interface" />
+        <module name="jd_plat_service_8001" />
+        <module name="jd_zuul_server_1299" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="jd-parent" target="1.8" />
+      <module name="jd_basic_parent" target="1.8" />
+      <module name="jd_basic_util" target="1.8" />
+      <module name="jd_config_server_9527" target="1.8" />
+      <module name="jd_eureka_server_7001" target="1.8" />
+      <module name="jd_plat_interface" target="1.8" />
+      <module name="jd_plat_parent" target="1.8" />
+      <module name="jd_plat_service_8001" target="1.8" />
+      <module name="jd_zuul_server_1299" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,18 @@
+server:
+  port: 9527
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:7001/eureka # 注册中心的位置
+  instance:
+    prefer-ip-address: true
+spring:
+  application:
+    name: spring-cloud-config # 注册在注册中心的名字
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/Javaluomeng/jd-config-repository.git
+          username: 2248504428@qq.com
+          password: abehw9grv3akLUO
